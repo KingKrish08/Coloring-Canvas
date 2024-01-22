@@ -1,3 +1,8 @@
+The inspiration for my game were multiple drawing games and to a certain extent, Microsoft paint. the concept of my c
+
+
+
+
 Press the 1 key to change the color to Red
 
 Press the 2 key to change the color to Orange
